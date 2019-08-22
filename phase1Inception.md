@@ -21,8 +21,7 @@ But the Inception phase doesn't automatically end just because you are still on 
 ## Success-critical stakeholders
 
 1. Instructor: Steve Mattingly
-2. Student: <!--student name -->
-3. <!--Others? (usually not)--> 
+2. Student: Dylan Hutchison
 
 ## Win conditions
 
@@ -35,7 +34,7 @@ But the Inception phase doesn't automatically end just because you are still on 
 5. The student must "package" selected work products for one or more audiences of non-critical stakeholders.
 6. Throughout the semester, the student must regularly submit work products that demonstrate progress toward satisfying these win conditions. 
 
-### for <!--student name -->
+### for Dylan Hutchison
 
 <!-- Edit this section to list your win conditions. What will it take to make the course a "win" for you? To get you started, there are some common examples drawn from student motivators and concerns. Modify or remove them as appropriate. 
 Then remove this instructions comment. -->
@@ -43,7 +42,7 @@ Then remove this instructions comment. -->
 1. I must feel Competent-- that I know what I am doing.
 2. I must feel Connection to other students, and that the work is relevant to my plans and interests.
 3. I must have some/a lot of Control over what I accomplish in the course-- to feel that I control my own destiny.
-4. I must achieve a grade of at least  <!--?--> .
+4. I must achieve a grade of at least an B .
 
  <!-- Add subsections for each additional success-critical stakeholder, listing their win conditions. (Usually there are none.)
 .
